@@ -4,10 +4,10 @@
 ![](https://github.com/WardaaNajamm/WardaaNajamm/blob/main/Brown%20Doodle%20Company%20profile%20Presentation%20(1).gif)
 
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on Data Analysis 
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning basics of DevOps
   
 
 <br/>  
