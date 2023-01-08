@@ -1,6 +1,6 @@
 ![](https://github.com/WardaaNajamm/WardaaNajamm/blob/main/Warda%20Najam.gif)
 
-### <div align="center">Hi, I'm Warda👋🏼👩🏻‍💻</div>  
+### <div align="left">Hi, I'm Warda👋🏼👩🏻‍💻</div>  
   
 
 - 🔭 I’m currently working on Data Analysis 
