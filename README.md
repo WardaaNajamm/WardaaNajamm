@@ -1,8 +1,7 @@
+![](https://github.com/WardaaNajamm/WardaaNajamm/blob/main/Warda%20Najam.gif)
 
 ### <div align="center">Hi, I'm Warda👋🏼👩🏻‍💻</div>  
   
-![](https://github.com/WardaaNajamm/WardaaNajamm/blob/main/Brown%20Doodle%20Company%20profile%20Presentation%20(1).gif)
-
 
 - 🔭 I’m currently working on Data Analysis 
   
@@ -101,9 +100,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=WardaaNajamm&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
   
 
 <br/>  
