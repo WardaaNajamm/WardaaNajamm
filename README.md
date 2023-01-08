@@ -1,4 +1,4 @@
-![](https://github.com/WardaaNajamm/WardaaNajamm/blob/main/Warda%20Najam.gif)
+![](https://github.com/WardaaNajamm/WardaaNajamm/blob/main/In%20my%20Junior%20year%20CC%2B%2B%20developer%20Learing%20DevOps%20%26%20Cloud%20Computing%20Someone%20who%20loves%20tea!.gif)
 
 ### <div align="left">Hi, I'm Warda👋🏼👩🏻‍💻</div>  
   
