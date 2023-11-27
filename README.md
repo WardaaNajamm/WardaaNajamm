@@ -76,18 +76,7 @@
 <br/>  
   
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=WardaaNajamm&show_icons=true&theme=transparent" align="center" /></div> 
-
-<br/>  
- 
- ## Languages
- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardaaNajamm&layout=compact&theme=transparent" align="center" /></div>  
- 	
-<br/>  
+<br/> 
 
   ## Connect with me  
 <div align="center">
