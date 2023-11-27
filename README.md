@@ -3,10 +3,10 @@
 ### <div align="left">Hi, I'm Warda👋🏼👩🏻‍💻</div>  
   
 
-- 🔭 I’m currently working on Data Analysis 
+- 🔭 I’m currently working on ML/AI 
   
 
-- 🌱 I’m currently learning basics of DevOps
+- 🌱 I’m currently learning about DevOps
   
 
 <br/>  
